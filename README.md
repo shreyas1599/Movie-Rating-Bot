@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to Movie Rating Bot 👋</h1>
 <p>
 </p>
+<p>
 <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
 
 
 > Movie Rating Bot built for Telegram using the Telegram API. Bot responds with a rating for a TV show or a movie that is inputted. Currently only supports movie ratings for IMdB. Movie and TV ratings are supported for Rotten Tomatoes and Metacritic. OMdB API was used for fetching ratings from IMdB and BeautifulSoup was used to scrape ratings from Rotten Tomatoes and Metacritic.
